@@ -36,3 +36,9 @@ int main() {
 
     return 0; // End of program
 }
+/*
+Output
+Enter X coordinate: 3
+Enter Y coordinate: -4
+Point lies in the Fourth Quadrant.
+*/
