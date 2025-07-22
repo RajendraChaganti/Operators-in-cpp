@@ -32,3 +32,14 @@ int main() {
         cout << "Grade: F (Fail)";
     return 0; // End of program
 }
+/*
+Enter marks for:
+mathematics: 56
+physics: 78
+chemistry: 92
+geography: 93
+hindi: 11
+marathi: 86
+Average Marks: 69.3333
+Grade: D
+*/
