@@ -19,3 +19,8 @@ int main() {
         cout << "The number is Zero (neither positive nor negative).";
     return 0;
 }
+/*
+Output
+Enter a number: -2
+The number is Negative.
+*/
