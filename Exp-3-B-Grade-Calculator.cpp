@@ -33,6 +33,7 @@ int main() {
     return 0; // End of program
 }
 /*
+Output
 Enter marks for:
 mathematics: 56
 physics: 78
